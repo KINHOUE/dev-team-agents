@@ -1,0 +1,27 @@
+# SECRETS — ne jamais versionner
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+auth.json
+
+# Données locales Hermes
+state.db
+state.db-*
+*.sqlite
+*.db
+sessions/
+memories/
+logs/
+cache/
+backups/
+workspace/
+sandboxes/
+
+# Divers
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
