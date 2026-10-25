@@ -39,7 +39,7 @@ Durée : ~15-20 s par profil (environ 2-3 min au total). Sortie : `/tmp/health-p
 
 ### 3. Rapport
 
-Écrire `C:/Users/PC/dev-team/docs/rapports/sante-agents-YYYY-MM-DD.md` :
+Écrire `docs/rapports/sante-agents-YYYY-MM-DD.md` (à la racine du dépôt de projet) :
 
 ```markdown
 # Santé des agents — YYYY-MM-DD
